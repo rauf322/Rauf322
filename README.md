@@ -1,11 +1,4 @@
-
-👋 Hello! I'm a passionate and aspiring software engineering student embarking on the exciting journey of higher education. As a fresh face in the world of code, algorithms, and innovation, I am thrilled to explore the dynamic realm of software engineering.
-
-🖥️ My fascination with technology started early, and now I find myself at the beginning of a rewarding academic adventure. Eager to absorb knowledge and develop my skills, I am ready to tackle challenges and contribute to the ever-evolving landscape of software development.
-
-🚀 Whether it's crafting lines of code, solving intricate problems, or collaborating on cutting-edge projects, I am fueled by a curiosity to understand the intricacies of software and its transformative impact on the world. I look forward to immersing myself in the rich learning environment, embracing every opportunity to grow and make a meaningful impact.
-
-🌐 Outside of coding, you might find me exploring the latest tech trends, engaging in hackathons, or simply enjoying the journey of becoming a well-rounded software engineer. I'm excited to connect with like-minded individuals, mentors, and industry professionals to broaden my horizons and contribute to the exciting future of technology.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Rauf322.eth)](https://git.io/typing-svg)
 
 <p align="center">
 	<a href="https://twitter.com/faizov_rauf"><img src="imgs/twitter.svg" alt="Twitter"></a>
