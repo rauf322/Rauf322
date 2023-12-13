@@ -8,9 +8,17 @@
 🌐 Outside of coding, you might find me exploring the latest tech trends, engaging in hackathons, or simply enjoying the journey of becoming a well-rounded software engineer. I'm excited to connect with like-minded individuals, mentors, and industry professionals to broaden my horizons and contribute to the exciting future of technology.
 
 <p align="center">
+	<a href="https://twitter.com/faizov_rauf"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://github.com/rauf322"><img src="imgs/github.svg" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/rauf-faizov-4683a8222/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+  
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rauf322&show_icons=true&theme=bear" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rauf322&theme=dark&hide_border=true" width="400">
 </p>
+
+# Stats of my Languages 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauf322&layout=compact)
 
 
 <p align="center">
